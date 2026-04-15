@@ -21,4 +21,7 @@
 | birthdate | DATE | The date of birth of the customer, formatted as YYYY-MM-DD (e.g., 1971-10-06). |
 | create_date | DATE | The date and time when the customer record was created in the system. |
 
+---
+
+
 
