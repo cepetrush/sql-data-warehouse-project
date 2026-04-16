@@ -53,6 +53,12 @@ category prefix.
 | fact_    | Fact table | fact_sales |
 | report_  | Report table | report_customers, report_sales_monthly |
 
+## **Column Naming Conventions**
+
+### **Surrogate Keys**
+- All primary keys in dimension tables must use the suffix _key.
+- **<table_name>_key**
+
 
 
     
