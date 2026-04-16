@@ -14,7 +14,7 @@ This document outlines the naming conventions used for schemas, tables, views, c
    - [Technical Columns](#technical-columns)
 4. [Stored Procedure](#stored-procedure-naming-conventions)
 
---
+---
 ## **General Principles**
 - **Naming Conventions:** Use snake_case, with lowercase letters and underscores(_) to separate words.
 - **Language:** Use English for all names.
