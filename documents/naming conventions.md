@@ -4,7 +4,7 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 ## **Table of Contents**
 
-1. <ins>General Principles<ins> (#general-principles)
+1. [General Principles] (#general-principles)
 2. [Table Naming Coventions] (#table-naming-conventions)
    - [Bronze Rules] (#bronze-rules)
    - [Silver Rules] (#silver-rules)
@@ -13,6 +13,12 @@ This document outlines the naming conventions used for schemas, tables, views, c
    - [Surrogate Keys] (#surrogate-keys)
    - [Technical Columns] (#technical-columns)
 4. [Stored Procedure] (#stored-procedure-naming-conventions)
+
+--
+## **General Principles**
+- Naming Conventions: Use snake_case, with lowercase letters and underscores(_) to separate words.
+- Language: Use English for all names.
+- Avoid Reserved Words: Do not use SQL resesrved words as object names.
 
 ## **Table Naming Conventions**
 
