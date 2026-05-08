@@ -18,6 +18,14 @@ This project involves:
 **ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
 **Data Modeling:** Developing fact and dimension tables optimized for analytical queries.
 
+## Important Tools
+  **Datasets:** Access to the project dataset (csv files).
+  **SQL Server Express:** Lightweight server for hosting your SQL database.
+  **SQL Server Management Studio (SSMS):** GUI for managing and interacting with databases.
+  **Git Repository:** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+  **DrawIO:** Design data architecture, models, flows, and diagrams.
+  **Notion:** Get the Project Template from Notion
+  
 ## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
